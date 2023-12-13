@@ -2,8 +2,6 @@ Java
 Linux
 JavaScript
 Dart
-Swift
-Kotlin
 Mobile Applications
 Android Development
 IOS
@@ -11,4 +9,4 @@ React-Native
 Flutter
 Node
 React
-JavaScript
+Power BI
