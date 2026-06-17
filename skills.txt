@@ -1,12 +1,17 @@
-Java
-Linux
-JavaScript
-Dart
-Mobile Applications
-Android Development
-IOS
-React-Native
-Flutter
-Node
 React
+Preact
+Node.js
+React Native
+JavaScript
+Android
+Full Stack Development
+UI Automation
+Generative AI
+Grafana
 Power BI
+Cypress
+Jest
+Python
+OCI
+Arduino
+Raspberry Pi
